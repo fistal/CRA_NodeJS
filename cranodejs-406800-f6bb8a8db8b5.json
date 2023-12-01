@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "cranodejs-406800",
+  "private_key_id": "f6bb8a8db8b5daf51f5e946bd6af0f20202a050f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCU8ygIGg72LB0x\nETyO2xRu7Of88CurxsOzuYFK7koz0I9tkubDlXNwmYBGRYSBkfsO807bB6dz53zO\nr6f4whd+6/soJGKkgOFw4SQ8JIsbchrSo0EGn2ozWKKUTXwpAkw92zuP9YZucr7x\nqSIC2Mzv6Vk7FoUJeTMT4mt6qKR28QJnX/OyBz8kE6ypIQsddtJxVIUTdkbVjWGA\nJbEhPOKPXSfoMjsn7c7aPdor0mcMI1dhJVulJBJ09zsTKoQFU544M98S5nPp6r4B\nOTrYbWZHnj79rwx+auj+oELNe/HlKEkBwuMW4crm8NMb+b1XiTbLTajReTSBquYM\nIZ3A9cfjAgMBAAECggEAAZ3L56xw1BISWVnfQCnkcVjbs8xU/vAZyKPhaD6cs/AH\ndSLU73plUzCq7q7HLSOm+A1BKUNOeWZf9ek27GSiK+lJKaM1f/f48a80VHKXuTel\nY6e1soyNfTrqE+NcFBL8NwN35Vd86LJx1tyG3SnUMSLNH91Cd/vdAjaLOxoPDvRH\ng+GT0tCOrit5vmahrnPXsRAPrArP+OFeA0xp7D8j0BpYWzAGgzKIEoBezo1VYEFZ\nCYExExiKSKwgK04O5IfNaCygcnLSCXjOXhXbzBFU/F9WinC7geeCKX7UUeRetgY/\nsBxWLrBvc2CTRC7VwzHzI9KUkphTcEGcurITfErMcQKBgQDSE3TlHxoB2BXBVs8b\nyloqWSaUps3rA2lvbMUeNjZbzEm0dzS0QLMwW3Q99I6FSVpUtZAv6lQPeemvUFXw\nG6jl0aBzmwj+wU8GEAOv7N8K57aUSi44LbkjC8IIcvPpBW6y6IjLJ4LpS+1HoF0b\nJJVMqwXOAJ7SjT/7zaFhujM38QKBgQC1guDWIlQUuaOQJGDgmXqmYJ58cDgRQXP8\ndaWMBW4pclYCKTKntcweUghrDUA4fgqCWKwNh/vVRJRJ9BTngIE6AIqMKbFg1m4P\n7TyC+WRjctsurzs7Lb05XHCRIndHd08fxyOQWYT57RLtaf76nD2b2FyIC8pmueWt\n0ld3ICuxEwKBgQCPW42y6aWCyqYV+Rp+mXksWwgz+xycmwhxbGWb91zjCibmC08h\nDuH5Rv+tY916YZNOKVTLDfrtUMHCzGzI3OdGZeY73fmmd95ogbcyb8/JjlSPH4wo\n9DLaEqUHxQJj6zwexQbMtBrm/9Rdw7al1jI4TqE4cj3v60pVmH7fxQQ80QKBgEBa\nBWKFyy+J3V5mN16Jq30/NhFCK+6aOQfhoe6xoivZmHqtpoLlJlf9l3R0vzcIIKuz\nylQFyRgEd1p8yciFu8sXlAc7ZOLDQ0QsRM7eomPLvb+gaqyBe9vRVStvf8B7oTbQ\nAGDWDBobniFD+h1ZtVICdFPbckfXUoG82Duo0TS3AoGAJCYDoU8pzzRopnTMmiXp\nK6EWz6ygLzo8/niUgoS+/lJE4p06l8wSBpEQTuVl/I0FfyLVYvc45FRVpL1yX6JL\ns3GwnfVhjiuLETASTnz6NtVijyHlxG+yzBsm1r/wTwHm4zZYJcVgCHEWVi4PERwz\nef6YzwsLQUK4d8MSOVlQZKQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "cranodejs-firestore@cranodejs-406800.iam.gserviceaccount.com",
+  "client_id": "104723950381619690799",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cranodejs-firestore%40cranodejs-406800.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
